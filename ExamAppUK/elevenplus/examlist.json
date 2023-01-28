@@ -1,16 +1,65 @@
 [{
     "examid": "1",
-    "examname": "Home"
+    "examname": "Home",
+    "subject": [{
+        "subname": "UK 11 Plus"
+    },
+    {
+        "subname": "All"
+    }]
 },
 {
     "examid": "2",
-    "examname": "UK 11 Plus",
-    "subject": [{
-            "subname": "All"
-        },
-        {
-            "subname": "Maths"
-        }
+    "examname": "Maths",
+    "subject": [
+        {   "subname": "Set1" }
+
+    ]
+},
+{
+    "examid": "3",
+    "examname": "English",
+    "subject": [
+        { "subname": "Set 1" },
+        { "subname": "Set 2" },
+        { "subname": "Set 3" },
+        { "subname": "Set 4" },
+        { "subname": "Set 5" },
+        { "subname": "Set 6" },
+        { "subname": "Set 7" },
+        { "subname": "Set 8" },
+        { "subname": "Set 9" }
+
+    ]
+},
+{
+    "examid": "4",
+    "examname": "Verbal Reasoning",
+    "subject": [
+        { "subname": "Set 1" },
+        { "subname": "Set 2" },
+        { "subname": "Set 3" },
+        { "subname": "Set 4" },
+        { "subname": "Set 5" },
+        { "subname": "Set 6" },
+        { "subname": "Set 7" },
+        { "subname": "Set 8" },
+        { "subname": "Set 9" }
+    ]
+},
+{
+    "examid": "5",
+    "examname": "Non Verbal Reasoning",
+    "subject": [
+        { "subname": "Set 1" },
+        { "subname": "Set 2" },
+        { "subname": "Set 3" },
+        { "subname": "Set 4" },
+        { "subname": "Set 5" },
+        { "subname": "Set 6" },
+        { "subname": "Set 7" },
+        { "subname": "Set 8" },
+        { "subname": "Set 9" }
 
     ]
 }
