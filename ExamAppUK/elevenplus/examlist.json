@@ -1,0 +1,17 @@
+[{
+    "examid": "1",
+    "examname": "Home"
+},
+{
+    "examid": "2",
+    "examname": "UK 11 Plus",
+    "subject": [{
+            "subname": "All"
+        },
+        {
+            "subname": "Maths"
+        }
+
+    ]
+}
+]
