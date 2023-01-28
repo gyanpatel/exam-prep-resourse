@@ -12,7 +12,15 @@
     "examid": "2",
     "examname": "Maths",
     "subject": [
-        {   "subname": "Set1" }
+        { "subname": "Set 1" },
+        { "subname": "Set 2" },
+        { "subname": "Set 3" },
+        { "subname": "Set 4" },
+        { "subname": "Set 5" },
+        { "subname": "Set 6" },
+        { "subname": "Set 7" },
+        { "subname": "Set 8" },
+        { "subname": "Set 9" }
 
     ]
 },
