@@ -1,6 +1,6 @@
 [
 	{
-		"qid": "1",
+		"qid": "Q1",
 		"qtype":1,
 		"question": "",
 		"answer": "28",
@@ -21,7 +21,7 @@
 
 		]
 	},{
-		"qid": "2",
+		"qid": "Q2",
 		"qtype":1,
 		"question": "",
 		"answer": "160",
@@ -43,7 +43,7 @@
 		]
 	},
 	{
-		"qid": "3",
+		"qid": "Q3",
 		"qtype":0,
 		"question": "What is the captial of UK?",
 		"answer": "London",
